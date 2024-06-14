@@ -61,7 +61,7 @@ export const NavBar = () => {
               <div className="social-icon">
                 <a href="https://g.co/kgs/ZSJeLYX"><img src={navIcon1} alt="" /></a>
                 <a href="https://www.facebook.com/profile.php?id=100083132757884&mibextid=ZbWKwL"><img src={navIcon2} alt="" /></a>
-                <a href="https://wa.me/+923355440544"><img src={navIcon3} alt="" /></a>
+                 <a href="https://wa.me/+923355440544?text=Hello can i get more information of your business?"><img src={navIcon3} alt="" /></a>
               </div>
               
             </span>
