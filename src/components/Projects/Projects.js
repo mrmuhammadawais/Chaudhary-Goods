@@ -2,7 +2,7 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "../ProjectCard/ProjectCard";
 import projImg1 from "../../assets/img/FastCargo.jpeg";
 import projImg2 from "../../assets/img/Faiz.jpeg";
-
+import projImg3 from "../../assets/img/AzanCargo.jpg"
 import colorSharp2 from "../../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -21,16 +21,12 @@ export const Projects = () => {
       description:"0307-3830661",
       imgUrl: projImg2,
     },
-    // {
-    //   title: "Stop Watch",
-    //   description: "Using redux",
-    //   imgUrl: projImg3,
-    // },
-    // {
-    //   title: "Tic-Tac-Toe Game",
-    //   description: "Use React",
-    //   imgUrl: projImg4,
-    // },
+    {
+      title: "Azan Cargo Faislabad",
+      description: "041-2656582",
+      imgUrl: projImg3,
+    },
+   
    
   ];
 
